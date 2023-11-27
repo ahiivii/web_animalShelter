@@ -20,12 +20,7 @@
  - 팀원7 : 김숙현 - 봉사(CRUD),견학(CRUD)
 
 ### ⚙️ 개발 환경
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
-- **ORM** : JPA
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## 📌 주요 기능
 #### 로그인
